@@ -1,0 +1,14 @@
+body{
+	text-align: center;
+	font-size: 12px;
+	font-family: Sans-serif,serif,Georgia,Times;
+	background-color:#ffffff;
+	height:100%;
+}
+div.top{
+	text-align: right;
+	color: #666666;
+}
+a:link{text-decoration: none;}
+a:visited{text-decoration: none;}
+a:hover{text-decoration: underline;}
