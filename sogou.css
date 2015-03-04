@@ -9,6 +9,24 @@ div.top{
 	text-align: right;
 	color: #666666;
 }
-a:link{text-decoration: none;}
-a:visited{text-decoration: none;}
-a:hover{text-decoration: underline;}
+a.tip:link{
+	text-decoration: none;
+	color: #000;
+}
+a.tip:visited{
+	text-decoration: none;
+	color: #000;
+}
+a.tip:hover{text-decoration: underline;}
+
+a:link{text-decoration: underline;}
+
+.top,.main1,.main2,.main3,.bottom1{color: #000;}
+
+.main1,.main3{
+	margin-right: 15px;
+}
+
+.img2{
+	padding-bottom: 94px;
+}
