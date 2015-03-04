@@ -25,8 +25,24 @@ a:link{text-decoration: underline;}
 
 .main1,.main3{
 	margin-right: 15px;
+	font: 14px arial;
+	position: relative;
 }
 
-.img2{
+.img21{
 	padding-bottom: 94px;
+	width: 100%;
+	height: auto;
 }
+.main1.a,.main1.strong{
+	margin-right: 15px;
+}
+
+.main1,.main2,.main3.bottom1{
+	line-height: 22px;
+} 
+
+.input1,.input2{
+	margin: 0;
+}
+
