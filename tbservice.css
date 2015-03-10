@@ -1,0 +1,10 @@
+.tbservice{
+	width: 190px;
+	box-shadow: 2px 2px 0 #eeeef0;
+	background-color: #fff;
+	position: relative;
+}
+h2{
+	margin: 0;
+	padding: 0;
+}
