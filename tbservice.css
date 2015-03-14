@@ -1,10 +1,38 @@
+body,a{
+	font: 12px/1.5 tahoma,arial,'Hiragino Sans GB',\5b8b\4f53,sans-serif;
+}
 .tbservice{
 	width: 190px;
 	box-shadow: 2px 2px 0 #eeeef0;
 	background-color: #fff;
 	position: relative;
 }
-h2{
+.tbservice h2{
 	margin: 0;
 	padding: 0;
+	background: #f40;
+	height: 35px;
+	display: block;
+	font-weight: bold;
+}
+.service-head{
+	display: inline-block;
+	vertical-align: middle;
+	zoom: 1;
+	background-position: 0 -125px;
+}
+.gif-hot,.gif-new{
+	right: 0;
+	top: 0;
+	position: absolute;
+	margin-top: 0;
+	margin-left: -1px;
+	width: 9px;
+	height: 14px;
+}
+.gif-hot{
+	background: url(hot.gif) 0 0 no-repeat;
+}
+.gif-new{
+	background: url(new.gif) 0 0 no-repeat;
 }
