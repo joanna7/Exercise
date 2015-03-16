@@ -20,6 +20,8 @@ body,a{
 	vertical-align: middle;
 	zoom: 1;
 	background-position: 0 -125px;
+	color:  #fff;
+	font-weight: bold;
 }
 .gif-hot,.gif-new{
 	right: 0;
@@ -35,4 +37,10 @@ body,a{
 }
 .gif-new{
 	background: url(new.gif) 0 0 no-repeat;
+}
+.service-theme{
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 19px;
+	font-weight: bold;
 }
